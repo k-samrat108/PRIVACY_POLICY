@@ -1,2 +1,2 @@
-# PRIVACY_POLICY.md
+# PRIVACY_POLICY
 Telegram bot's Privacy Policy 
